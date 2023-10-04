@@ -8,6 +8,7 @@ class Test{
     }
     static void fun1(){
         System.out.println("nathis");
+        System.out.println("change 1");
     }
     static void fun2(){
         System.out.println("udhay");
