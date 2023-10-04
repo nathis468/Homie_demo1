@@ -11,7 +11,8 @@ class Test{
         System.out.println("change 1");
     }
     static void fun2(){
-        System.out.println("udhay");
+        String a="udhay";
+        System.out.println(a);
     }
     static void fun3(){
         String a="pattas bala";
