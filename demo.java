@@ -8,13 +8,13 @@ class Test{
     }
     static void fun1(){
         System.out.println("nathis");
+        System.out.println("change 1");
     }
     static void fun2(){
         String a="udhay";
         System.out.println(a);
     }
     static void fun3(){
-        
-        System.out.println("bala");
+        System.out.println("pattas bala");
     }
 }
