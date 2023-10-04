@@ -7,15 +7,15 @@ class Test{
         fun3();
     }
     static void fun1(){
-        System.out.println("nathis");
-        System.out.println("change 1");
+        System.out.println("nagini nathis");
+       
     }
     static void fun2(){
-        String a="udhay";
+        String a="udhaya";
         System.out.println(a);
     }
     static void fun3(){
-        String a="pattas bala";
+        String a="bala divya";
         System.out.println(a);
     }
 }
