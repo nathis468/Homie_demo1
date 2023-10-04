@@ -14,6 +14,7 @@ class Test{
         System.out.println("udhay");
     }
     static void fun3(){
-        System.out.println("pattas bala");
+        String a="pattas bala";
+        System.out.println(a);
     }
 }
