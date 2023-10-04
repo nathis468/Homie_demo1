@@ -13,6 +13,6 @@ class Test{
         System.out.println("udhay");
     }
     static void fun3(){
-        System.out.println("bala");
+        System.out.println("pattas bala");
     }
 }
